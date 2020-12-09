@@ -1,0 +1,7 @@
+.contact {
+  display: flex;
+  flex-direction: row;
+}
+.contact__block {
+  flex: 1;
+}

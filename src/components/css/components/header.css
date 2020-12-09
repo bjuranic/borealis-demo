@@ -1,0 +1,23 @@
+.header__wrapper {
+  border-bottom: 1px solid #000;
+}
+.header {
+  display: flex;
+  padding: 10px 0;
+}
+.header__logo-image {
+  width: 200px;
+}
+.header__info {
+  margin-left: 20px;
+
+  text-align: left;
+}
+.header__title {
+  margin: 5px 0 15px;
+  
+  font-size: 26px;
+}
+.header__subtitle {
+  font-size: 18px;
+}

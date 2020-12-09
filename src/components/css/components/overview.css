@@ -1,0 +1,31 @@
+.overview__header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.overview__title {
+  margin-right: 15px;
+  margin-bottom: 0;
+}
+.overview__list {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  list-style: none;
+}
+.overview__item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+.overview__label {
+  font-weight: 500;
+}
+.overview__value {
+  font-weight: 300;
+}
+.overview__value b {
+  font-weight: 600;
+}

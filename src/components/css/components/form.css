@@ -1,0 +1,42 @@
+.form-error {
+  color: red;
+}
+.form__header {
+  margin-bottom: 30px;
+}
+.form__subtitle {
+  font-weight: 400;
+}
+.form__text {
+  font-size: 12px;
+}
+
+.total {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 50px;
+  font-size: 26px;
+  text-transform: uppercase;
+}
+.total__label {
+  font-weight: 300;
+}
+.total__value {
+  margin-left: 10px;
+  font-weight: 600;
+}
+
+.form-radio-group {
+  margin: 50px 0;
+}
+.form-checkbox-group {
+  margin: 50px 0 20px;
+}
+.form-check-inline {
+  margin-right: 15px;
+  font-size: 15px;
+}
+
+.hidden__block {
+  text-align: right;
+}
